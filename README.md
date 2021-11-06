@@ -4,7 +4,7 @@
 ## Description
 * This project is meant to display the USER profile. Their education background, work history, why they chose Moringa School for programming. It also shows the projects that the user has done overtime (and the tecnologies they use), the USER hobbies and Skills.
 ## Setup/Installation Requirements
-* Clone the repo {git clone https://github.com/isaacwambu/portfolio.git}
+* Clone the repo {git clone https://github.com/isaacwambu/portfolio.git }
 * For this project you need;
 * Chrome browser  (recommended) though you can still use others, reliable internet and a computer. 
 * go to the live link below that starts with https:// and it will open for you the project in your browser.
