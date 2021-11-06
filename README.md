@@ -8,7 +8,7 @@
 * For this project you need;
 * Chrome browser  (recommended) though you can still use others, reliable internet and a computer. 
 * go to the live link below that starts with https:// and it will open for you the project in your browser.
-## isaacwambu.github.io/portfolio/
+## https://isaacwambu.github.io/portfolio/
 ## Known Bugs
 * This Project has no known bugs.
 ## Technologies Used
